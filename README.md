@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrfishyy69
+- 👋 Hi, I’m Fishyy
 - 👀 I’m interested in ... Game Developing.
 - 🌱 I’m currently learning ... Game Developing.
 - 💞️ I’m looking to collaborate on ... Game Developing.
